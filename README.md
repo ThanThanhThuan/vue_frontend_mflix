@@ -1,6 +1,7 @@
 # 🍿 Mflix Frontend (Vue 3 + Vite)
 
 Watch this App live at: https://thanmflix.netlify.app/
+
 A modern, responsive Single Page Application (SPA) built with Vue.js 3 and Vite that serves as the user interface for the Mflix Movie Tracker. 
 It connects to my Node.js/Express backend to browse, search, and view details from the MongoDB sample_mflix dataset.
 
